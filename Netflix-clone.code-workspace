@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coffee espresso clone"
+		},
+		{
+			"path": "../amazon-clone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amazon-clone"
+	}
+}
